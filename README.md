@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a technology student.
-- 🌱 C/C++ | SQl | HTML | Javascript
+- 🌱 C/C++ | SQl | HTML | Javascript | Java
 - ✋ I accept improvement sugetões for my codes
 - 📬 Linkedin: 
 - https://www.linkedin.com/in/tatianebalencar/
